@@ -19869,6 +19869,9 @@
 	<programme channel="动作电影" start="20250426080000 +0800" stop="20250426093600 +0800">
 		<title lang="zh">人口交易</title>
 	</programme>
+	<programme channel="动作电影" start="20250426093600 +0800" stop="20250426113900 +0800">
+		<title lang="zh">破冰船</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -81153,6 +81156,9 @@
 	<programme channel="newtv超级综艺" start="20250426080700 +0800" stop="20250426094100 +0800">
 		<title lang="zh">此生要去的100个地方</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250426094100 +0800" stop="20250426105800 +0800">
+		<title lang="zh">开门大吉</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -81402,6 +81408,9 @@
 	<programme channel="newtv军旅剧场" start="20250426084800 +0800" stop="20250426093400 +0800">
 		<title lang="zh">16_菜刀班尖刀连</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250426093400 +0800" stop="20250426102400 +0800">
+		<title lang="zh">17_菜刀班尖刀连</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -81540,6 +81549,9 @@
 	<programme channel="newtv动作电影" start="20250426080000 +0800" stop="20250426093600 +0800">
 		<title lang="zh">人口交易</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250426093600 +0800" stop="20250426113900 +0800">
+		<title lang="zh">破冰船</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -81578,6 +81590,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250426085900 +0800" stop="20250426094400 +0800">
 		<title lang="zh">16_承欢记</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250426094400 +0800" stop="20250426101100 +0800">
+		<title lang="zh">街边的回头客</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -81675,6 +81690,9 @@
 	<programme channel="newtv军事评论" start="20250426091300 +0800" stop="20250426093800 +0800">
 		<title lang="zh">美国将向日本出售舰载电子战系统</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250426093800 +0800" stop="20250426100400 +0800">
+		<title lang="zh">朝鲜宣布试射最新型洲际弹道导弹 日韩惊呼“破纪录”</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -81713,6 +81731,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250426091300 +0800" stop="20250426093400 +0800">
 		<title lang="zh">健身舞《弥渡山歌》（20220711）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250426093400 +0800" stop="20250426095400 +0800">
+		<title lang="zh">健身舞《酒醉的蝴蝶》（20220613）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -81884,6 +81905,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250426082200 +0800" stop="20250426093200 +0800">
 		<title lang="zh">14_包青天之七侠五义</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250426093200 +0800" stop="20250426101700 +0800">
+		<title lang="zh">15_包青天之七侠五义</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
