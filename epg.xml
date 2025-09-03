@@ -79986,6 +79986,9 @@
 	<programme channel="黑莓动画" start="20250903184600 +0800" stop="20250903220000 +0800">
 		<title lang="zh">专题节目</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250903220000 +0800" stop="20250903222500 +0800">
+		<title lang="zh">02_无运动 不童年</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
